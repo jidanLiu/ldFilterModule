@@ -7,7 +7,7 @@
 
 import Foundation
 
-class HBBottomSloganView: UIView{
+public class HBBottomSloganView: UIView{
     
     var label: UILabel!
     
@@ -16,9 +16,9 @@ class HBBottomSloganView: UIView{
         self.configView()
     }
     
-    override func layoutSubviews() {
+    public override func layoutSubviews() {
         super.layoutSubviews()
-        label.frame = CGRect(x:self.width/2-100,y:self.height/2-17/2,width:200,height:17)
+        label.frame = CGRect(x:100,y:0,width:200,height:17)
     }
     
     func configView() {

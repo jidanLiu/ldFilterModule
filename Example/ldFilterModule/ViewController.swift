@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         label.text = "测试Demo"
         label.textColor = UIColor.black
         self.view.addSubview(label)
+        
     }
 
     override func didReceiveMemoryWarning() {
