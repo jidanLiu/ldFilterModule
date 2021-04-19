@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "test.h"
 
 FOUNDATION_EXPORT double ldFilterModuleVersionNumber;
 FOUNDATION_EXPORT const unsigned char ldFilterModuleVersionString[];

@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         label.textColor = UIColor.black
         self.view.addSubview(label)
         
-        
+        test.init()
     }
 
     override func didReceiveMemoryWarning() {
