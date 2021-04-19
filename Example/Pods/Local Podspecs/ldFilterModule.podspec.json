@@ -1,0 +1,22 @@
+{
+  "name": "ldFilterModule",
+  "version": "0.1.0",
+  "summary": "A short description of ldFilterModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liujidan941209/ldFilterModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liujidan941209": "liujidanjob@163.com"
+  },
+  "source": {
+    "git": "https://github.com/liujidan941209/ldFilterModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ldFilterModule/Classes/**/*"
+}
