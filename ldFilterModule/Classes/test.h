@@ -7,10 +7,9 @@
 
 #import <UIKit/UIKit.h>
 
-NS_ASSUME_NONNULL_BEGIN
-
 @interface test : UIViewController
+
+@property (nonatomic, strong) NSString *test1;
 
 @end
 
-NS_ASSUME_NONNULL_END

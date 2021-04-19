@@ -7,7 +7,7 @@
 
 import Foundation
 
-public class HBBottomSloganView: UIView{
+public class HBSlogan: UIView{
     
     var label: UILabel!
     
@@ -23,7 +23,7 @@ public class HBBottomSloganView: UIView{
     
     func configView() {
         label = UILabel()
-        label.text = "- 不做事后诸葛亮 -"
+        label.text = "- 不做事后诸葛亮1111 -"
         label.textColor = .white
         label.font = UIFont.systemFont(ofSize: 13)
         label.textAlignment = .center
