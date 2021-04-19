@@ -1,6 +1,6 @@
 {
   "name": "ldFilterModule",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "筛选组件",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/jidanLiu/ldFilterModule",
@@ -9,11 +9,11 @@
     "file": "LICENSE"
   },
   "authors": {
-    "liujidan941209": "liujidanjob@163.com"
+    "liujidan": "liujidanjob@163.com"
   },
   "source": {
     "git": "https://github.com/jidanLiu/ldFilterModule.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "9.0"
